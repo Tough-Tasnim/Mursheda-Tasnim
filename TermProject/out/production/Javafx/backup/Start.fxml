@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="415.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.51" xmlns:fx="http://javafx.com/fxml/1" fx:controller="backup.startController">
+   <children>
+      <ImageView fitHeight="420.0" fitWidth="600.0" layoutY="-4.0" pickOnBounds="true">
+         <image>
+            <Image url="@f3.jpg" />
+         </image>
+      </ImageView>
+      <Button fx:id="START" layoutX="239.0" layoutY="330.0" mnemonicParsing="false" onAction="#startClicked" opacity="0.98" prefHeight="45.0" prefWidth="100.0" text="START " textFill="#751616">
+         <font>
+            <Font name="Bauhaus 93" size="18.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

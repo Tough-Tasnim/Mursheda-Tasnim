@@ -1,0 +1,11 @@
+tasnim:1800
+urmi:1345
+tasnim:1125
+urmi:1125
+tasnim:920
+urmi:710
+urmi:280
+urmi:240
+urmi:180
+urmi:140
+urmi:0
